@@ -5,6 +5,6 @@ Leverages touch-based interaction on the watch strap for accessibility instead o
 1. 0.96 Inch OLED
 2. Seedstudio XIAO ESP32 S3
 3. Velostat
-4. Resistors
+4. Resistors 1K
 5. 500 mAh LiPo Battery
 6. Copper Tape
